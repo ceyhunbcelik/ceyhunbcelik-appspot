@@ -28,6 +28,11 @@ header .col2 p{
   margin-bottom: 0;
 }
 
+header .col2 p a{
+  text-decoration: none;
+  color: #000;
+}
+
 @media (max-width: 768px) {
 
   header{
