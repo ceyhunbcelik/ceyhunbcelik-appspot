@@ -1,8 +1,11 @@
 <?php
 
   // Database
-  $about_list = require('./database/about.php');
-  $skill_list = require('./database/skill.php');
+  $about_list = require_once('./database/about.php');
+  $skill_list = require_once('./database/skill.php');
+  $education_list = require_once('./database/education.php');
+  $project_list = require_once('./database/project.php');
+  $certificate_list = require_once('./database/certificate.php');
  ?>
 
 <!DOCTYPE html>
