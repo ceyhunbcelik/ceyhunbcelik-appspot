@@ -1,3 +1,9 @@
+<?php
+
+  // Database
+  $about_list = require('./database/about.php');
+ ?>
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
