@@ -1,6 +1,7 @@
 <?php
 
   // Database
+  $personal = require_once('./database/personal.php');
   $about_list = require_once('./database/about.php');
   $skill_list = require_once('./database/skill.php');
   $education_list = require_once('./database/education.php');
