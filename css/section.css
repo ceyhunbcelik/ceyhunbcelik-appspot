@@ -74,6 +74,17 @@ section .row4 .row4-line p:nth-child(4){
   font-size: 14px;
 }
 
+section .row5 .row5-line{
+  display: flex;
+  justify-content: space-between;
+}
+
+section .row5 .row5-line p{
+  margin-top: 0px;
+  margin-bottom: 1px;
+  font-size: 16px;
+}
+
 @media (max-width: 768px) {
   section .row1 p{
     font-size: 14px;
@@ -103,8 +114,16 @@ section .row4 .row4-line p:nth-child(4){
     font-size: 13px;
   }
 
-
   section .row4 .row4-line p:nth-child(4){
+    font-size: 13px;
+  }
+
+  section .row5 .row5-line{
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  section .row5 .row5-line p{
     font-size: 13px;
   }
 }

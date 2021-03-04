@@ -84,3 +84,21 @@ and easy to use tracking system.</p>
   </div>
 
 </div>
+
+
+<h2>CERTIFICATES</h2>
+<div class="section-line"></div>
+
+<div class="row5">
+
+  <div class="row5-line">
+    <p>American Culture Language School</p>
+    <p>05/2018</p>
+  </div>
+
+  <div class="row5-line">
+    <p>AWS DEV DAY ONLINE | Modern Application Development</p>
+    <p>10/2020</p>
+  </div>
+
+</div>
