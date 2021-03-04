@@ -2,6 +2,7 @@
 
   // Database
   $about_list = require('./database/about.php');
+  $skill_list = require('./database/skill.php');
  ?>
 
 <!DOCTYPE html>

@@ -1,20 +1,28 @@
 <!-- About Starts Here -->
 <div class="row1">
   <?php foreach ($about_list as $about): ?>
-  <p>• <?= $about ?></p>
+    <p>• <?= $about ?></p>
   <?php endforeach; ?>
 </div>
 <!-- About Ends Here -->
 
+<!-- Skill Starts Here -->
 <h2>SKILLS</h2>
 <div class="section-line"></div>
 
 <div class="row2">
+  <?php foreach ($skill_list as $skill): ?>
+    <p><span><?= $skill['title'] ?>: </span><?= $skill['content'] ?></p>
+  <?php endforeach; ?>
+  <!--
   <p><span>Web Development: </span>HTML&CSS, JS, Node.js, Express.js, React.js, Next.js</p>
   <p><span>Languages: </span>PHP, C#</p>
   <p><span>Databases: </span> MySQL, MongoDB, Microsoft SQL Server</p>
   <p><span>Others: </span> Git, AWS, Heroku, Postman</p>
+-->
 </div>
+<!-- Skill Ends Here -->
+
 
 <h2>EDUCATION</h2>
 <div class="section-line"></div>
