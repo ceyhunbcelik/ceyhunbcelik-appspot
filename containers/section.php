@@ -16,3 +16,32 @@ my teammates can continue to develop product independently from me.</p>
   <p><span>Databases: </span> MySQL, MongoDB, Microsoft SQL Server</p>
   <p><span>Others: </span> Git, AWS, Heroku, Postman</p>
 </div>
+
+<h2>EDUCATION</h2>
+<div class="section_line"></div>
+
+<div class="row3">
+
+  <div class="row3-line">
+    <div class="row3-line-row1">
+      <p>Erasmus Exchange Student</p>
+      <p>Tomas Bata University in Zlín, CZ</p>
+    </div>
+
+    <div class="row3-line-row2">
+      <p>2019 - 2020</p>
+    </div>
+  </div>
+
+  <div class="row3-line">
+    <div class="row3-line-row1">
+      <p>BSc, Computer Engineering</p>
+      <p>Kastamonu University, TR</p>
+    </div>
+
+    <div class="row3-line-row2">
+      <p>2016 - 2021</p>
+    </div>
+  </div>
+
+</div>

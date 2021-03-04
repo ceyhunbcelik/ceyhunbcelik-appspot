@@ -32,6 +32,20 @@ section .row2 p span{
   font-weight: bold;
 }
 
+section .row3 .row3-line{
+  display: flex;
+  justify-content: space-between;
+}
+
+section .row3 .row3-line .row3-line-row1 p{
+  margin-top: 0px;
+  margin-bottom: 2px;
+}
+
+section .row3 .row3-line .row3-line-row1 p:nth-child(1){
+  font-weight: bold;
+}
+
 @media (max-width: 768px) {
   section .row1 p{
     font-size: 14px;
@@ -39,5 +53,17 @@ section .row2 p span{
 
   section .row2 p{
     font-size: 14px;
+  }
+
+  section .row3 .row3-line{
+    display: block;
+  }
+
+  section .row3 .row3-line .row3-line-row1 p{
+    margin-bottom: 0;
+  }
+
+  section .row3 .row3-line .row3-line-row2 p{
+    margin-top: 0;
   }
 }
