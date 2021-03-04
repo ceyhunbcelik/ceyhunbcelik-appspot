@@ -26,15 +26,15 @@
     <main>
 
       <!-- Header Starts Here -->
-      <?php require_once('./containers/header.php') ?>
+      <header><?php require_once('./containers/header.php') ?></header>
       <!-- Header Ends Here -->
 
       <!-- Section Starts Here -->
-      <?php require_once('./containers/section.php') ?>
+      <section><?php require_once('./containers/section.php') ?></section>
       <!-- Section Ends Here -->
 
       <!-- Footer Starts Here -->
-      <?php require_once('./containers/footer.php') ?>
+      <footer><?php require_once('./containers/footer.php') ?></footer>
       <!-- Footer Ends Here -->
 
     </main>
