@@ -85,6 +85,11 @@ section .row5 .row5-line p{
   font-size: 16px;
 }
 
+section .row6 p{
+  font-size: 16px;
+  margin-top: 3px;
+}
+
 @media (max-width: 768px) {
   section .row1 p{
     font-size: 14px;
@@ -125,5 +130,9 @@ section .row5 .row5-line p{
 
   section .row5 .row5-line p{
     font-size: 13px;
+  }
+
+  section .row6 p{
+    font-size: 14px;
   }
 }

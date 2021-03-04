@@ -102,3 +102,13 @@ and easy to use tracking system.</p>
   </div>
 
 </div>
+
+<h2>OTHERS</h2>
+<div class="section-line"></div>
+
+<div class="row6">
+  <p>I am learning technical analysis for cryptocurrency market after painful experiences and
+fundamental analysis for stock market after smart experiences. My other goal is make invest
+every month with my salary to stock of company I work for. Because I want to be more part of
+company that accept me as part of company.</p>
+</div>
