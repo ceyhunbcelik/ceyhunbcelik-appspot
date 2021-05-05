@@ -12,7 +12,7 @@
     'link1_url' => 'https://github.com/ceyhunbcelik',
     'link2_name' => 'linkedin.com/in/ceyhunbcelik',
     'link2_url' => 'https://www.linkedin.com/in/ceyhunbcelik/',
-    'resume' => 'https://ceyhunbcelik.ew.r.appspot.com/public/ceyhunbcelik_resume.pdf',
+    'resume' => 'https://ceyhunbcelik-basic-resume.herokuapp.com/public/ceyhunbcelik_resume.pdf',
     'other' => 'I am learning technical analysis for cryptocurrency market after painful experiences and
   fundamental analysis for stock market after smart experiences. My other goal is make invest
   every month with my salary to stock of company I work for. Because I want to be more part of
